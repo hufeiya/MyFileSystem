@@ -1,0 +1,33 @@
+﻿生成启动时间为 2016/1/22 14:58:29。
+     1>项目“C:\Users\feiya\documents\visual studio 2015\Projects\FileSystem\FileSystem\FileSystem.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\software\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Shell.cpp
+         Shell.cpp
+     1>c:\users\feiya\documents\visual studio 2015\projects\filesystem\filesystem\shell.cpp(616): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\feiya\documents\visual studio 2015\projects\filesystem\filesystem\shell.cpp(760): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\feiya\documents\visual studio 2015\projects\filesystem\filesystem\shell.cpp(781): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\feiya\documents\visual studio 2015\projects\filesystem\filesystem\shell.cpp(783): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\feiya\documents\visual studio 2015\projects\filesystem\filesystem\shell.cpp(787): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\feiya\documents\visual studio 2015\projects\filesystem\filesystem\shell.cpp(797): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\feiya\documents\visual studio 2015\projects\filesystem\filesystem\shell.cpp(812): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\feiya\documents\visual studio 2015\projects\filesystem\filesystem\shell.cpp(929): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\software\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\feiya\documents\visual studio 2015\Projects\FileSystem\Debug\FileSystem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\feiya\documents\visual studio 2015\Projects\FileSystem\Debug\FileSystem.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\feiya\documents\visual studio 2015\Projects\FileSystem\Debug\FileSystem.lib" /MACHINE:X86 Debug\BlockReader.obj
+         Debug\Catalog.obj
+         Debug\CatalogItem.obj
+         Debug\commonConstValue.obj
+         Debug\FCB.obj
+         Debug\File.obj
+         Debug\main.obj
+         Debug\MD5.obj
+         Debug\MemoryInode.obj
+         Debug\Shell.obj
+         Debug\SuperBlock.obj
+         Debug\User.obj
+         Debug\UserItem.obj
+         FileSystem.vcxproj -> C:\Users\feiya\documents\visual studio 2015\Projects\FileSystem\Debug\FileSystem.exe
+     1>已完成生成项目“C:\Users\feiya\documents\visual studio 2015\Projects\FileSystem\FileSystem\FileSystem.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.76
